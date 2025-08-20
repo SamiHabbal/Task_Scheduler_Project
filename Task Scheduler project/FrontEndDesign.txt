@@ -1,0 +1,4 @@
+Features: 
+- On screen button to add a task
+- Click the task to be able to view/edit/delete it
+- Screen should display calendar
